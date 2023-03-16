@@ -2,7 +2,7 @@ package Exercise04;
 
 import java.util.Arrays;
 
-public class Q06_Arrays {
+public class E04_Arrays {
 
     /*  you have a string "HeySiri"
      * with arrays change it to "ByeSiri" and write changing array

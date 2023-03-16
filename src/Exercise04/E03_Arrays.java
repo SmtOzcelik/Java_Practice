@@ -2,7 +2,7 @@ package Exercise04;
 
 import java.util.Arrays;
 
-public class Q05_Arrays {
+public class E03_Arrays {
 
     /*
         given an int array and find the squares of the elements
