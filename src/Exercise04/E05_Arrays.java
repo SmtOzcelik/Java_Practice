@@ -1,6 +1,6 @@
 package Exercise04;
 
-public class Q07_Arrays {
+public class E05_Arrays {
 
     /*
      * verilen Arrayde toplamlari istenen degere esit olan sayi ciftlerini
